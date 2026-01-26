@@ -1,50 +1,50 @@
 # Instagram Comments Dataset Sample
 
-<h2>A sample dataset of 1,061 records</h2>
+<h2>Ein Beispiel-Datensatz mit 1.061 Datensätzen</h2>
 
-<a href="https://brightdata.com">
+<a href="https://brightdata.de">
     <img src="https://github.com/luminati-io/Instagram-Comments-dataset-samples/blob/main/datasets-image.png" alt="Bright Data datasets" />
 </a>
 
-This **Instagram Comments Dataset Sample** includes **1,061 records** and was extracted using the **Bright Data API**.
+Dieses **Instagram Comments Dataset Sample** umfasst **1.061 Datensätze** und wurde mithilfe der **Bright Data API** extrahiert.
 
 ## Data Points
 
 | Field Name | Description |
 |------------|-------------|
-| `url` | The URL of the Instagram account where the comment was posted. |
-| `comment_user` | The username of the person who made the comment. |
-| `comment_user_url` | The URL to the Instagram profile of the comment user. |
-| `comment_date` | The date and time when the comment was posted. |
-| `comment` | The content of the comment made by the user. |
-| `likes_number` | The number of likes that the comment received. |
-| `replies_number` | The number of replies to the comment. |
-| `replies` | The content of replies to the comment, if any. |
-| `hashtag_comment` | Any hashtags included within the comment content. |
-| `tagged_users_in_comment` | Usernames tagged within the comment content. |
-| `post_url` | The URL of the Instagram post on which the comment was made. |
-| `post_user` | The username of the person who made the original post. |
-| `comment_id` | A unique identifier for the comment. |
-| `post_id` | A unique identifier for the Instagram post. |
+| `url` | Die URL des Instagram-Accounts, auf dem der Kommentar gepostet wurde. |
+| `comment_user` | Der Benutzername der Person, die den Kommentar verfasst hat. |
+| `comment_user_url` | Die URL zum Instagram-Profil des Kommentarbenutzers. |
+| `comment_date` | Datum und Uhrzeit, zu der der Kommentar gepostet wurde. |
+| `comment` | Der Inhalt des vom Benutzer verfassten Kommentars. |
+| `likes_number` | Die Anzahl der Likes, die der Kommentar erhalten hat. |
+| `replies_number` | Die Anzahl der Antworten auf den Kommentar. |
+| `replies` | Der Inhalt der Antworten auf den Kommentar, falls vorhanden. |
+| `hashtag_comment` | Alle Hashtags, die im Kommentarinhalt enthalten sind. |
+| `tagged_users_in_comment` | Benutzernamen, die im Kommentarinhalt markiert wurden. |
+| `post_url` | Die URL des Instagram-Posts, zu dem der Kommentar verfasst wurde. |
+| `post_user` | Der Benutzername der Person, die den ursprünglichen Post erstellt hat. |
+| `comment_id` | Eine eindeutige Kennung für den Kommentar. |
+| `post_id` | Eine eindeutige Kennung für den Instagram-Post. |
 
 
 ## Use Cases
 
 ### 1. Sentiment Analysis
-Analyze the sentiment of comments to understand public perception and brand sentiment on Instagram posts.
+Analysieren Sie die Stimmung von Kommentaren, um die öffentliche Wahrnehmung und die Markenstimmung bei Instagram-Posts zu verstehen.
 
 ### 2. Influencer Engagement
-Identify key influencers by analyzing user engagement in comment sections to enhance marketing strategies.
+Identifizieren Sie wichtige Influencer, indem Sie das Nutzer-Engagement in Kommentarbereichen analysieren, um Marketingstrategien zu verbessern.
 
 ### 3. Trend Detection
-Monitor hashtags and tagged users in comments to detect emerging trends and topics in real-time.
+Überwachen Sie Hashtags und markierte Benutzer in Kommentaren, um neu entstehende Trends und Themen in Echtzeit zu erkennen.
 
 
 
 ## File Formats
 
-The dataset is available in multiple formats:
-- **CSV** (included in this sample)
+Der Datensatz ist in mehreren Formaten verfügbar:
+- **CSV** (in diesem Sample enthalten)
 - **JSON**
 - **NDJSON**
 - **JSON Lines**
@@ -64,8 +64,8 @@ The dataset is available in multiple formats:
 
 ## Update Frequency
 
-Datasets can be updated on various schedules:
-- **Once** (one-time delivery)
+Datensätze können nach verschiedenen Zeitplänen aktualisiert werden:
+- **Once** (einmalige Lieferung)
 - **Daily**
 - **Weekly**
 - **Monthly**
@@ -74,14 +74,14 @@ Datasets can be updated on various schedules:
 
 ## Data Enrichment
 
-Enhance your dataset with additional data points based on your specific requirements. Contact us for custom enrichment options.
+Erweitern Sie Ihren Datensatz basierend auf Ihren spezifischen Anforderungen um zusätzliche Data Points. Kontaktieren Sie uns für benutzerdefinierte Enrichment-Optionen.
 
-**[Get the full Instagram Comments dataset](https://brightdata.com/products/datasets/instagram)**
+**[Holen Sie sich den vollständigen Instagram Comments dataset](https://brightdata.de/products/datasets/instagram)**
 
 ---
 
-## Free Access for Researchers and NGOs
+## Kostenloser Zugang für Forschende und NGOs
 
-The Bright Initiative offers free access to **[Web Scraper APIs](https://brightdata.com/products/web-scraper)** and **[ready-to-use datasets](https://brightdata.com/products/datasets)** for academic researchers, NGOs, and NPOs working on environmental and social causes. 
+Die Bright Initiative bietet akademischen Forschenden, NGOs und NPOs, die an Umwelt- und Sozialthemen arbeiten, kostenlosen Zugang zu **[Web Scraper APIs](https://brightdata.de/products/web-scraper)** und **[einsatzbereiten Datensätzen](https://brightdata.de/products/datasets)**. 
 
-Apply for free access at [brightinitiative.com](https://brightinitiative.com).
+Beantragen Sie kostenlosen Zugang unter [brightinitiative.com](https://brightinitiative.com).

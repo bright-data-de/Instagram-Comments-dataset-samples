@@ -3,7 +3,7 @@
 <h2>Ein Beispiel-Datensatz mit 1.061 Datensätzen</h2>
 
 <a href="https://brightdata.de">
-    <img src="https://github.com/luminati-io/Instagram-Comments-dataset-samples/blob/main/datasets-image.png" alt="Bright Data datasets" />
+    <img src="https://github.com/bright-data-de/Instagram-Comments-dataset-samples/blob/main/datasets-image.png" alt="Bright Data datasets" />
 </a>
 
 Dieses **Instagram Comments Dataset Sample** umfasst **1.061 Datensätze** und wurde mithilfe der **Bright Data API** extrahiert.
